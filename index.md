@@ -230,6 +230,7 @@ Signed,
 - Myrle Krantz (ASF member)
 - Naglis Lesčinskas
 - Nathaniel J. Smith
+- Nathan Dyer (former FSF associate member)
 - Neil Watson (Former CFEngine Community Advisory Board Member)
 - Nick Guenther
 - Niclas Zeising (FreeBSD committer)
